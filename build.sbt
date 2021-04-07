@@ -1,4 +1,4 @@
-scalaVersion := "2.13"
+scalaVersion := "2.13.3"
 
 projectDependencies += "junit" % "junit" % "3.8.1" % "test"
 
